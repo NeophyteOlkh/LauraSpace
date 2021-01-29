@@ -1424,3 +1424,392 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-09.23.14:818][764]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/Invader00095F8E4613403C843B1DB014788275.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Invader.uasset'
 [2021.01.29-09.23.14:832][764]AssetCheck: New page: Asset Save: Invader
 [2021.01.29-09.23.14:832][764]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Invader.Invader
+[2021.01.29-09.24.10:128][ 59]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-09.24.10:128][ 59]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-09.26.19:912][677]BlueprintLog: New page: Compile Invader
+[2021.01.29-09.26.19:969][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.01.29-09.26.20:421][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Invader" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Invader.uasset" SILENT=true
+[2021.01.29-09.26.20:462][718]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/Invader3269B6F2487C59149F2B6B96239BAB79.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Invader.uasset'
+[2021.01.29-09.26.20:477][718]AssetCheck: New page: Asset Save: Invader
+[2021.01.29-09.26.20:477][718]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Invader.Invader
+[2021.01.29-09.26.21:763][855]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.26.21:778][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.26.21:778][855]PIE: New page: PIE session: NewMap (29 янв. 2021 г., 15:26:21)
+[2021.01.29-09.26.21:802][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.01.29-09.26.21:806][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003719s)
+[2021.01.29-09.26.21:807][855]LogAIModule: Creating AISystem for world NewMap
+[2021.01.29-09.26.21:807][855]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D927734C00), frame # 310855
+[2021.01.29-09.26.21:807][855]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DA07E1EAC0), frame # 310855
+[2021.01.29-09.26.21:807][855]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2021.01.29-09.26.21:807][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004712s)
+[2021.01.29-09.26.21:838][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.26.21:839][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.26.21:840][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.26.21:840][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.26.21:840][855]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.26.21:840][855]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.26.21:844][855]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.26.21:844][855]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.26.21:862][855]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2021.01.29-09.26.21:862][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.26.21:862][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.26.21:862][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.26.21:862][855]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.26.21:873][855]LogInit: FAudioDevice initialized.
+[2021.01.29-09.26.21:883][855]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-09.26.21:885][855]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.01.29-12.26.21
+[2021.01.29-09.26.21:885][855]LogWorld: Bringing up level for play took: 0.001164
+[2021.01.29-09.26.21:886][855]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.01.29-09.26.21:888][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:889][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:889][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:889][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:889][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:890][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:890][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:890][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:891][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:891][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:891][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:892][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:892][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:892][855]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.21:893][855]PIE: Server logged in
+[2021.01.29-09.26.21:894][855]PIE: Play in editor total start time 0,116 seconds.
+[2021.01.29-09.26.28:626][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.26.28:626][656]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.01.29-09.26.28:627][656]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.26.28:628][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.26.28:644][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.26.28:658][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.26.28:686][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.26.28:701][656]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DA07E1EAC0), frame # 311656
+[2021.01.29-09.26.28:701][656]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D927734C00), frame # 311656
+[2021.01.29-09.26.28:703][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.01.29-09.26.28:729][657]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.01.29-09.26.44:339][413]BlueprintLog: New page: Compile ProjectyleEnemy
+[2021.01.29-09.26.44:395][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.01.29-09.26.44:699][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ProjectyleEnemy" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset" SILENT=true
+[2021.01.29-09.26.44:728][442]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/ProjectyleEnemyD426AD714AE124CAF64200B5E8661027.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset'
+[2021.01.29-09.26.44:744][442]AssetCheck: New page: Asset Save: ProjectyleEnemy
+[2021.01.29-09.26.44:744][442]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ProjectyleEnemy.ProjectyleEnemy
+[2021.01.29-09.26.45:621][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.26.45:636][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.26.45:636][535]PIE: New page: PIE session: NewMap (29 янв. 2021 г., 15:26:45)
+[2021.01.29-09.26.45:636][535]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.01.29-09.26.45:639][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003554s)
+[2021.01.29-09.26.45:641][535]LogAIModule: Creating AISystem for world NewMap
+[2021.01.29-09.26.45:641][535]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002DA08876000), frame # 313535
+[2021.01.29-09.26.45:641][535]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DA06DC9080), frame # 313535
+[2021.01.29-09.26.45:641][535]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2021.01.29-09.26.45:641][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005051s)
+[2021.01.29-09.26.45:672][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.26.45:673][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.26.45:673][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.26.45:674][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.26.45:674][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.26.45:677][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.26.45:677][535]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.26.45:693][535]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2021.01.29-09.26.45:694][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.26.45:694][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.26.45:694][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.26.45:694][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.26.45:704][535]LogInit: FAudioDevice initialized.
+[2021.01.29-09.26.45:709][535]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-09.26.45:711][535]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.01.29-12.26.45
+[2021.01.29-09.26.45:711][535]LogWorld: Bringing up level for play took: 0.001139
+[2021.01.29-09.26.45:711][535]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.01.29-09.26.45:713][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:713][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:713][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:713][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:714][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:714][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:714][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:714][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:715][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:715][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:715][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:715][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:716][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:716][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:716][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:717][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:717][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:717][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:717][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:718][535]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.26.45:718][535]PIE: Server logged in
+[2021.01.29-09.26.45:718][535]PIE: Play in editor total start time 0,083 seconds.
+[2021.01.29-09.26.51:175][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.26.51:175][183]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.01.29-09.26.51:176][183]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.26.51:177][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.26.51:195][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.26.51:208][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.26.51:251][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.26.51:266][183]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DA06DC9080), frame # 314183
+[2021.01.29-09.26.51:266][183]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002DA08876000), frame # 314183
+[2021.01.29-09.26.51:269][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.01.29-09.26.51:295][184]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.01.29-09.27.00:870][315]BlueprintLog: New page: Compile ProjectyleEnemy
+[2021.01.29-09.27.00:920][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.01.29-09.27.25:170][ 83]BlueprintLog: New page: Compile Invader
+[2021.01.29-09.27.25:275][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.01.29-09.27.25:648][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Invader" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Invader.uasset" SILENT=true
+[2021.01.29-09.27.25:678][115]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/Invader1542EE444674E1501D0100A5E31F543C.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Invader.uasset'
+[2021.01.29-09.27.25:690][115]AssetCheck: New page: Asset Save: Invader
+[2021.01.29-09.27.25:690][115]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Invader.Invader
+[2021.01.29-09.27.26:811][236]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.27.26:826][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.27.26:827][236]PIE: New page: PIE session: NewMap (29 янв. 2021 г., 15:27:26)
+[2021.01.29-09.27.26:827][236]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.01.29-09.27.26:830][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003673s)
+[2021.01.29-09.27.26:831][236]LogAIModule: Creating AISystem for world NewMap
+[2021.01.29-09.27.26:831][236]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D9C7A75600), frame # 318236
+[2021.01.29-09.27.26:831][236]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DA0230AFC0), frame # 318236
+[2021.01.29-09.27.26:832][236]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2021.01.29-09.27.26:832][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005108s)
+[2021.01.29-09.27.26:864][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.27.26:866][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.27.26:866][236]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.27.26:866][236]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.27.26:869][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.27.26:869][236]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.27.26:887][236]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2021.01.29-09.27.26:887][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.27.26:887][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.27.26:887][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.27.26:887][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.27.26:898][236]LogInit: FAudioDevice initialized.
+[2021.01.29-09.27.26:902][236]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-09.27.26:904][236]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.01.29-12.27.26
+[2021.01.29-09.27.26:904][236]LogWorld: Bringing up level for play took: 0.001116
+[2021.01.29-09.27.26:904][236]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.01.29-09.27.26:906][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:906][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:906][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:907][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:907][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:907][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:907][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:907][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:908][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:908][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:909][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:909][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:909][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:909][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:910][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:910][236]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.26:911][236]PIE: Server logged in
+[2021.01.29-09.27.26:912][236]PIE: Play in editor total start time 0,085 seconds.
+[2021.01.29-09.27.48:936][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.27.48:936][871]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.01.29-09.27.48:937][871]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.27.48:938][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.27.48:954][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.27.48:963][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.27.48:989][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.27.49:004][871]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DA0230AFC0), frame # 320871
+[2021.01.29-09.27.49:004][871]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D9C7A75600), frame # 320871
+[2021.01.29-09.27.49:007][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.29-09.27.49:034][872]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.01.29-09.27.56:803][764]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.27.56:818][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.27.56:818][764]PIE: New page: PIE session: NewMap (29 янв. 2021 г., 15:27:56)
+[2021.01.29-09.27.56:818][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.01.29-09.27.56:822][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003604s)
+[2021.01.29-09.27.56:823][764]LogAIModule: Creating AISystem for world NewMap
+[2021.01.29-09.27.56:823][764]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002DA1F2C7800), frame # 321764
+[2021.01.29-09.27.56:823][764]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002DA1CDFE340), frame # 321764
+[2021.01.29-09.27.56:823][764]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2021.01.29-09.27.56:823][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004577s)
+[2021.01.29-09.27.56:852][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.27.56:854][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.27.56:854][764]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.27.56:854][764]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.27.56:857][764]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.27.56:857][764]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.27.56:874][764]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2021.01.29-09.27.56:874][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.27.56:874][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.27.56:874][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.27.56:874][764]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.27.56:885][764]LogInit: FAudioDevice initialized.
+[2021.01.29-09.27.56:890][764]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-09.27.56:892][764]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.01.29-12.27.56
+[2021.01.29-09.27.56:892][764]LogWorld: Bringing up level for play took: 0.001111
+[2021.01.29-09.27.56:892][764]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.01.29-09.27.56:894][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:894][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:895][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:895][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:895][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:896][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:896][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:896][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:896][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:897][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:897][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:897][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:898][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:898][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:898][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:898][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:898][764]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.27.56:899][764]PIE: Server logged in
+[2021.01.29-09.27.56:899][764]PIE: Play in editor total start time 0,081 seconds.
+[2021.01.29-09.27.57:555][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.27.57:555][835]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.01.29-09.27.57:556][835]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.27.57:557][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.27.57:575][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.27.57:588][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.27.57:615][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.27.57:630][835]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002DA1CDFE340), frame # 321835
+[2021.01.29-09.27.57:630][835]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002DA1F2C7800), frame # 321835
+[2021.01.29-09.27.57:632][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.29-09.27.57:658][836]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.01.29-09.27.58:543][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.01.29-09.28.16:222][ 12]Cmd: TRANSACTION UNDO
+[2021.01.29-09.28.16:222][ 12]LogEditorTransaction: Undo Move Actors
+[2021.01.29-09.28.21:771][594]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-09.28.21:786][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-09.28.21:786][594]PIE: New page: PIE session: NewMap (29 янв. 2021 г., 15:28:21)
+[2021.01.29-09.28.21:786][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.01.29-09.28.21:789][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003645s)
+[2021.01.29-09.28.21:790][594]LogAIModule: Creating AISystem for world NewMap
+[2021.01.29-09.28.21:790][594]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D9DF2B5C00), frame # 324594
+[2021.01.29-09.28.21:790][594]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D987D716C0), frame # 324594
+[2021.01.29-09.28.21:790][594]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2021.01.29-09.28.21:790][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004669s)
+[2021.01.29-09.28.21:822][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-09.28.21:827][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-09.28.21:827][594]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-09.28.21:827][594]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-09.28.21:831][594]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-09.28.21:831][594]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-09.28.21:846][594]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2021.01.29-09.28.21:846][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-09.28.21:846][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-09.28.21:846][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-09.28.21:846][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-09.28.21:847][594]LogInit: FAudioDevice initialized.
+[2021.01.29-09.28.21:860][594]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-09.28.21:862][594]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.01.29-12.28.21
+[2021.01.29-09.28.21:862][594]LogWorld: Bringing up level for play took: 0.001240
+[2021.01.29-09.28.21:862][594]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.01.29-09.28.21:864][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:864][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:864][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:865][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:865][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:865][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:866][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:866][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:866][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:867][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:867][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:867][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:867][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:868][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:868][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:868][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:868][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:868][594]LogScript: Warning: Script Msg: SetTimer passed a negative or zero time.  The associated timer may fail to fire!  If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.01.29-09.28.21:869][594]PIE: Server logged in
+[2021.01.29-09.28.21:869][594]PIE: Play in editor total start time 0,085 seconds.
+[2021.01.29-09.28.25:886][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.28.25:886][ 69]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.01.29-09.28.25:886][ 69]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.28.25:888][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.28.25:907][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-09.28.25:921][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.28.25:967][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-09.28.25:968][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D987D716C0), frame # 325069
+[2021.01.29-09.28.25:968][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D9DF2B5C00), frame # 325069
+[2021.01.29-09.28.25:970][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.01.29-09.28.26:002][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.01.29-09.28.50:907][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-09.28.50:940][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.01.29-09.28.50:979][ 47]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/NewMap4EFEB41542964457BFD637A666B57DC4.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/NewMap.umap'
+[2021.01.29-09.28.51:016][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.01.29-09.28.51:039][ 47]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/NewMap_BuiltDataEE3078184CF5D9EB24A7089235B0DB32.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/NewMap_BuiltData.uasset'
+[2021.01.29-09.28.51:056][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-09.28.51:056][ 47]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.01.29-09.28.51:056][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.01.29-09.28.52:888][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.01.29-09.28.52:917][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ProjectyleEnemy" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset" SILENT=true
+[2021.01.29-09.28.52:943][252]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/ProjectyleEnemy1005CEDE46BDE8107D3A3BBD86F9C253.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset'
+[2021.01.29-09.28.52:955][252]AssetCheck: New page: Asset Save: ProjectyleEnemy
+[2021.01.29-09.28.52:955][252]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ProjectyleEnemy.ProjectyleEnemy
+[2021.01.29-09.29.20:392][328]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-09.29.20:392][328]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.29.20:392][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.29.20:818][371]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-09.29.20:818][371]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.29.20:818][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.29.21:516][447]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.29-09.29.21:516][447]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-09.29.21:516][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-09.29.22:770][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.01.29-09.29.58:053][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.01.29-09.30.10:614][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-09.30.10:614][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-09.31.39:892][617]BlueprintLog: New page: Compile Pilot
+[2021.01.29-09.31.39:986][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.29-09.31.40:378][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset" SILENT=true
+[2021.01.29-09.31.40:417][655]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/Pilot58CC3C3042ED6553732E2D97CA3A610C.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset'
+[2021.01.29-09.31.40:429][655]AssetCheck: New page: Asset Save: Pilot
+[2021.01.29-09.31.40:429][655]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.01.29-09.31.54:147][295]LogEditorTransaction: Undo Move Node
+[2021.01.29-09.31.54:358][300]LogEditorTransaction: Undo Create Pin Link
+[2021.01.29-09.31.54:517][304]LogEditorTransaction: Undo Create Pin Link
+[2021.01.29-09.31.54:882][334]LogEditorTransaction: Undo Move Node
+[2021.01.29-09.31.55:222][373]LogEditorTransaction: Undo Move Node
+[2021.01.29-09.31.55:548][411]LogEditorTransaction: Undo Move Node
+[2021.01.29-09.31.55:924][455]LogEditorTransaction: Undo Move Nodes
+[2021.01.29-09.31.56:281][495]LogEditorTransaction: Undo Create Pin Link
+[2021.01.29-09.31.56:631][535]LogEditorTransaction: Undo Break Pin Links
+[2021.01.29-09.31.57:259][606]LogEditorTransaction: Undo Create Pin Link
+[2021.01.29-09.31.57:764][664]LogEditorTransaction: Undo Add Node
+[2021.01.29-09.31.59:582][873]BlueprintLog: New page: Compile Projectyle1
+[2021.01.29-09.31.59:664][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.29-09.32.00:110][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.01.29-09.32.00:139][920]LogSavePackage: Moving '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Saved/Projectyle15D636C4D4D807A3FEAC3389FDFC9A9F2.tmp' to '../../../../../../Users/lvbabayan/Documents/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.01.29-09.32.00:151][920]AssetCheck: New page: Asset Save: Projectyle1
+[2021.01.29-09.32.00:151][920]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
