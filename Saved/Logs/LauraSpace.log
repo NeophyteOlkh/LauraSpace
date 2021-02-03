@@ -1959,3 +1959,1387 @@ Are you sure?
 [2021.02.03-17.54.59:408][ 25]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.03-17.54.59:408][ 25]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
 [2021.02.03-17.54.59:408][ 25]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Shield_1.Shield_1
+[2021.02.03-17.55.31:160][283]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-17.55.31:160][283]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-17.55.43:649][483]BlueprintLog: New page: Compile Shield_1
+[2021.02.03-17.55.43:714][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.03-17.55.44:477][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shield_1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset" SILENT=true
+[2021.02.03-17.55.44:495][539]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Shield_154D8928B4A58439777456AB40B0B9276.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset'
+[2021.02.03-17.55.44:508][539]AssetCheck: New page: Asset Save: Shield_1
+[2021.02.03-17.55.44:508][539]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Shield_1.Shield_1
+[2021.02.03-17.55.50:430][190]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-17.55.50:430][190]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-17.56.03:272][667]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-17.56.03:326][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.02.03-17.56.03:773][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-17.56.03:798][675]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle1DF5F5C194C67C10538A6B5A271898D62.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-17.56.03:813][675]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-17.56.03:813][675]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-17.56.05:417][824]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-17.56.05:434][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-17.56.05:434][824]PIE: New page: PIE session: NewMap (3 февр. 2021 г., 23:56:05)
+[2021.02.03-17.56.05:434][824]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-17.56.05:441][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006315s)
+[2021.02.03-17.56.05:442][824]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-17.56.05:443][824]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2021.02.03-17.56.05:443][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008333s)
+[2021.02.03-17.56.05:473][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.02.03-17.56.05:474][824]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-17.56.05:474][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-17.56.05:474][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-17.56.05:475][824]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-17.56.05:475][824]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-17.56.05:476][824]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-17.56.05:476][824]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-17.56.05:496][824]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-17.56.05:496][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-17.56.05:496][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-17.56.05:496][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-17.56.05:497][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-17.56.05:497][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-17.56.05:497][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-17.56.05:530][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-17.56.05:530][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-17.56.05:530][824]LogInit: FAudioDevice initialized.
+[2021.02.03-17.56.05:530][824]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMap'.
+[2021.02.03-17.56.05:539][824]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-17.56.05:541][824]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.03-20.56.05
+[2021.02.03-17.56.05:541][824]LogWorld: Bringing up level for play took: 0.001745
+[2021.02.03-17.56.05:541][824]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.02.03-17.56.05:545][824]LogScript: Warning: Script Msg: Invader_C_2 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.56.05:551][824]LogScript: Warning: Script Msg: Invader_C_17 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.56.05:552][824]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.56.05:554][824]PIE: Server logged in
+[2021.02.03-17.56.05:555][824]PIE: Play in editor total start time 0,121 seconds.
+[2021.02.03-17.56.15:479][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.56.15:479][680]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-17.56.15:480][680]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-17.56.15:480][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.56.15:488][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-17.56.15:493][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.56.15:517][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-17.56.15:518][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.56.15:519][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.56.15:539][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.56.15:543][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.03-17.56.15:582][681]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.02.03-17.57.07:529][424]BlueprintLog: New page: Compile Shield_1
+[2021.02.03-17.57.07:591][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.02.03-17.57.08:450][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shield_1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset" SILENT=true
+[2021.02.03-17.57.08:467][488]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Shield_162F94978448A661C2344D3B4905B0431.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset'
+[2021.02.03-17.57.08:483][488]AssetCheck: New page: Asset Save: Shield_1
+[2021.02.03-17.57.08:483][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Shield_1.Shield_1
+[2021.02.03-17.57.10:782][724]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-17.57.10:841][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.02.03-17.57.11:266][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-17.57.11:288][735]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle19F90ABEE45FEDA60600CA4B6E8C52825.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-17.57.11:305][735]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-17.57.11:305][735]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-17.57.12:455][816]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-17.57.12:472][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-17.57.12:472][816]PIE: New page: PIE session: NewMap (3 февр. 2021 г., 23:57:12)
+[2021.02.03-17.57.12:508][816]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-17.57.12:513][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005072s)
+[2021.02.03-17.57.12:514][816]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-17.57.12:515][816]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2021.02.03-17.57.12:515][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006832s)
+[2021.02.03-17.57.12:544][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.02.03-17.57.12:545][816]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-17.57.12:545][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-17.57.12:545][816]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-17.57.12:545][816]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-17.57.12:547][816]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-17.57.12:547][816]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-17.57.12:565][816]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-17.57.12:565][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-17.57.12:565][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-17.57.12:565][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-17.57.12:566][816]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-17.57.12:566][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-17.57.12:566][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-17.57.12:585][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-17.57.12:585][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-17.57.12:585][816]LogInit: FAudioDevice initialized.
+[2021.02.03-17.57.12:586][816]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2021.02.03-17.57.12:614][816]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-17.57.12:616][816]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.03-20.57.12
+[2021.02.03-17.57.12:616][816]LogWorld: Bringing up level for play took: 0.001460
+[2021.02.03-17.57.12:616][816]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.02.03-17.57.12:622][816]LogScript: Warning: Script Msg: Invader_C_9 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.12:622][816]LogScript: Warning: Script Msg: Invader_C_10 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.12:624][816]LogScript: Warning: Script Msg: Invader_C_16 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.12:626][816]LogScript: Warning: Script Msg: Invader_C_21 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.12:626][816]PIE: Server logged in
+[2021.02.03-17.57.12:628][816]PIE: Play in editor total start time 0,157 seconds.
+[2021.02.03-17.57.15:209][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.57.15:209][ 43]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-17.57.15:209][ 43]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-17.57.15:210][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.57.15:222][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-17.57.15:225][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.57.15:250][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-17.57.15:251][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.57.15:252][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.57.15:272][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.57.15:276][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.02.03-17.57.15:315][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.02.03-17.57.45:492][ 11]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-17.57.45:547][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.03-17.57.46:104][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-17.57.46:126][ 38]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle169E6B0694E61786E859CAF80E229DFDE.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-17.57.46:142][ 38]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-17.57.46:142][ 38]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-17.57.48:321][195]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-17.57.48:339][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-17.57.48:339][195]PIE: New page: PIE session: NewMap (3 февр. 2021 г., 23:57:48)
+[2021.02.03-17.57.48:339][195]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-17.57.48:344][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004738s)
+[2021.02.03-17.57.48:345][195]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-17.57.48:346][195]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2021.02.03-17.57.48:346][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006238s)
+[2021.02.03-17.57.48:376][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.02.03-17.57.48:377][195]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-17.57.48:377][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-17.57.48:377][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-17.57.48:378][195]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-17.57.48:378][195]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-17.57.48:379][195]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-17.57.48:379][195]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-17.57.48:401][195]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-17.57.48:402][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-17.57.48:402][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-17.57.48:402][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-17.57.48:402][195]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-17.57.48:402][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-17.57.48:403][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-17.57.48:422][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-17.57.48:422][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-17.57.48:422][195]LogInit: FAudioDevice initialized.
+[2021.02.03-17.57.48:422][195]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2021.02.03-17.57.48:436][195]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-17.57.48:439][195]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.03-20.57.48
+[2021.02.03-17.57.48:439][195]LogWorld: Bringing up level for play took: 0.002083
+[2021.02.03-17.57.48:439][195]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.02.03-17.57.48:444][195]LogScript: Warning: Script Msg: Invader_C_7 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.48:445][195]LogScript: Warning: Script Msg: Invader_C_11 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.48:446][195]LogScript: Warning: Script Msg: Invader_C_13 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.48:449][195]LogScript: Warning: Script Msg: Invader_C_20 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.48:450][195]LogScript: Warning: Script Msg: Invader_C_22 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-17.57.48:450][195]PIE: Server logged in
+[2021.02.03-17.57.48:451][195]PIE: Play in editor total start time 0,114 seconds.
+[2021.02.03-17.57.52:729][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.57.52:729][519]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-17.57.52:730][519]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-17.57.52:730][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.57.52:741][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-17.57.52:745][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-17.57.52:771][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-17.57.52:771][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.57.52:772][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-17.57.52:794][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-17.57.52:798][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.02.03-17.57.52:834][520]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.02.03-17.58.05:306][679]LogEditorTransaction: Undo Make New Scene Root
+[2021.02.03-17.58.19:487][737]LogEditorTransaction: Undo Make New Scene Root
+[2021.02.03-17.58.30:142][498]LogEditorTransaction: Undo Make New Scene Root
+[2021.02.03-17.58.30:388][505]LogEditorTransaction: Undo Modify Component Scale
+[2021.02.03-17.58.31:098][562]LogEditorTransaction: Undo Move Node
+[2021.02.03-17.58.31:345][581]LogEditorTransaction: Undo Add Node
+[2021.02.03-17.58.31:756][612]LogEditorTransaction: Undo Add Node
+[2021.02.03-17.58.32:340][662]LogEditorTransaction: Undo Move Node
+[2021.02.03-17.58.34:410][836]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-17.58.34:468][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.02.03-17.58.35:033][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-17.58.35:056][862]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle11D64F23D49AAA9B167B53690AACE47E0.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-17.58.35:069][862]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-17.58.35:069][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-17.59.52:691][ 98]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-17.59.52:691][ 98]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.00.44:705][650]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.00.44:706][650]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.01.33:185][ 53]BlueprintLog: New page: Compile Pilot
+[2021.02.03-18.01.33:262][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.02.03-18.01.33:850][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset" SILENT=true
+[2021.02.03-18.01.33:908][ 93]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/PilotF102D65D4FAE0E22ED0880B64401406D.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset'
+[2021.02.03-18.01.33:922][ 93]AssetCheck: New page: Asset Save: Pilot
+[2021.02.03-18.01.33:922][ 93]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.02.03-18.03.33:891][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ProjectyleEnemy.ProjectyleEnemy
+[2021.02.03-18.03.45:836][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Invader.Invader
+[2021.02.03-18.03.54:860][520]LogSlate: Window 'Message' being destroyed
+[2021.02.03-18.03.54:866][520]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2021.02.03-18.04.04:269][362]LogSlate: Window 'Message' being destroyed
+[2021.02.03-18.04.04:275][362]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2021.02.03-18.04.11:485][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.02.03-18.04.16:157][793]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.03-18.04.18:989][793]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.04.18:989][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.19:060][793]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-18.04.19:060][793]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.04.19:060][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.19:109][793]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/DiebleFromPilot.DiebleFromPilot
+[2021.02.03-18.04.19:584][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.03-18.04.19:611][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.02.03-18.04.19:638][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.03-18.04.26:058][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.03-18.04.28:136][140]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.03-18.04.32:088][140]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-18.04.32:088][140]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.04.32:088][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.32:167][140]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-18.04.32:167][140]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.04.32:167][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.32:230][140]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/DieableFromEnemy.DieableFromEnemy
+[2021.02.03-18.04.32:685][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.02.03-18.04.32:708][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.02.03-18.04.32:729][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.02.03-18.04.34:427][255]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.04.34:444][255]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.03-18.04.34:446][255]LogPlayLevel: [PlayLevel] Compiling ProjectyleEnemy before play...
+[2021.02.03-18.04.34:473][255]LogPlayLevel: [PlayLevel] Compiling Invader before play...
+[2021.02.03-18.04.34:502][255]LogPlayLevel: [PlayLevel] Compiling Projectyle1 before play...
+[2021.02.03-18.04.34:545][255]LogPlayLevel: [PlayLevel] Compiling Pilot before play...
+[2021.02.03-18.04.34:575][255]LogPlayLevel: [PlayLevel] Compiling Shield_1 before play...
+[2021.02.03-18.04.34:676][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.02.03-18.04.34:677][255]LogPlayLevel: PlayLevel: Blueprint regeneration took 233 ms (5 blueprints)
+[2021.02.03-18.04.34:677][255]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:04:34)
+[2021.02.03-18.04.34:677][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.04.34:682][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005369s)
+[2021.02.03-18.04.34:684][255]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.04.34:684][255]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2021.02.03-18.04.34:684][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007043s)
+[2021.02.03-18.04.34:709][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.02.03-18.04.34:709][255]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.04.34:709][255]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.04.34:709][255]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.04.34:710][255]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.04.34:710][255]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.04.34:711][255]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.04.34:711][255]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.04.34:732][255]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.04.34:732][255]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.04.34:732][255]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.04.34:732][255]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.04.34:733][255]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.04.34:733][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.04.34:733][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.04.34:753][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.04.34:753][255]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.04.34:753][255]LogInit: FAudioDevice initialized.
+[2021.02.03-18.04.34:753][255]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2021.02.03-18.04.34:767][255]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.04.34:769][255]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.03-21.04.34
+[2021.02.03-18.04.34:770][255]LogWorld: Bringing up level for play took: 0.001677
+[2021.02.03-18.04.34:770][255]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.02.03-18.04.34:776][255]LogScript: Warning: Script Msg: Invader_C_11 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.04.34:777][255]LogScript: Warning: Script Msg: Invader_C_13 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.04.34:779][255]LogScript: Warning: Script Msg: Invader_C_17 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.04.34:781][255]PIE: Server logged in
+[2021.02.03-18.04.34:782][255]PIE: Play in editor total start time 0,338 seconds.
+[2021.02.03-18.04.44:759][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.04.44:759][ 25]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.04.44:759][ 25]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.04.44:759][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.44:767][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.04.44:771][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.04.44:792][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.04.44:792][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.04.44:793][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.04.44:818][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.02.03-18.04.44:859][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.02.03-18.05.08:662][839]BlueprintLog: New page: Compile Shield_1
+[2021.02.03-18.05.08:724][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.02.03-18.05.09:353][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Shield_1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset" SILENT=true
+[2021.02.03-18.05.09:370][869]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Shield_1BE9CC72949F43D6C783E2292E822AD5A.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Shield_1.uasset'
+[2021.02.03-18.05.09:383][869]AssetCheck: New page: Asset Save: Shield_1
+[2021.02.03-18.05.09:384][869]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Shield_1.Shield_1
+[2021.02.03-18.05.10:983][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.05.11:012][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-18.05.11:012][ 10]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:05:11)
+[2021.02.03-18.05.11:037][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.05.11:043][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005815s)
+[2021.02.03-18.05.11:044][ 10]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.05.11:045][ 10]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2021.02.03-18.05.11:045][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007713s)
+[2021.02.03-18.05.11:069][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.02.03-18.05.11:070][ 10]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.02.03-18.05.11:070][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.05.11:070][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.05.11:070][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.05.11:070][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.05.11:071][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.05.11:071][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.05.11:071][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.05.11:071][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.05.11:071][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.05.11:071][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.05.11:072][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.05.11:072][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.05.11:091][ 10]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.05.11:092][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.05.11:111][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.05.11:111][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.05.11:111][ 10]LogInit: FAudioDevice initialized.
+[2021.02.03-18.05.11:111][ 10]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewMap'.
+[2021.02.03-18.05.11:120][ 10]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.05.11:122][ 10]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2021.02.03-21.05.11
+[2021.02.03-18.05.11:123][ 10]LogWorld: Bringing up level for play took: 0.001700
+[2021.02.03-18.05.11:123][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.02.03-18.05.11:126][ 10]LogScript: Warning: Script Msg: Invader_C_1 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.05.11:129][ 10]LogScript: Warning: Script Msg: Invader_C_9 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.05.11:133][ 10]PIE: Server logged in
+[2021.02.03-18.05.11:134][ 10]PIE: Play in editor total start time 0,123 seconds.
+[2021.02.03-18.06.05:708][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.06.05:709][479]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.06.05:709][479]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.06.05:709][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.06.05:719][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.06.05:724][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.06.05:745][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-18.06.05:745][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.06.05:746][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.06.05:768][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.06.05:772][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.02.03-18.06.05:812][480]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.02.03-18.06.15:500][342]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.02.03-18.07.06:108][913]BlueprintLog: New page: Compile Pilot
+[2021.02.03-18.07.06:168][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.02.03-18.07.06:739][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset" SILENT=true
+[2021.02.03-18.07.06:795][958]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Pilot90A57C00421FF19C348A2CA569D20416.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset'
+[2021.02.03-18.07.06:807][958]AssetCheck: New page: Asset Save: Pilot
+[2021.02.03-18.07.06:807][958]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.02.03-18.07.44:270][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.02.03-18.07.44:271][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.03-18.07.44:299][850]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/NewMap_Auto21FB2EDCE48FF97FF8804E38CD39A9C25.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2021.02.03-18.07.44:302][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.060
+[2021.02.03-18.07.44:302][850]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2021.02.03-18.07.44:302][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Invader] ([2] browsable assets)...
+[2021.02.03-18.07.44:315][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Invader.Invader]
+[2021.02.03-18.07.44:329][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Invader.Invader]
+[2021.02.03-18.07.44:329][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Invader]
+[2021.02.03-18.07.44:329][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Invader" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Invader_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.07.44:367][850]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Invader_Auto2C016EB9747A041ACDDAA7A98F1BC76A7.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Invader_Auto2.uasset'
+[2021.02.03-18.07.44:367][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ProjectyleEnemy] ([1] browsable assets)...
+[2021.02.03-18.07.44:381][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ProjectyleEnemy.ProjectyleEnemy]
+[2021.02.03-18.07.44:381][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ProjectyleEnemy]
+[2021.02.03-18.07.44:403][850]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/ProjectyleEnemy_Auto221C70EE0451F78EE0D4A469EB22E3DA1.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/ProjectyleEnemy_Auto2.uasset'
+[2021.02.03-18.07.44:404][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pilot] ([1] browsable assets)...
+[2021.02.03-18.07.44:420][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pilot.Pilot]
+[2021.02.03-18.07.44:420][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pilot]
+[2021.02.03-18.07.44:420][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Pilot_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.07.44:475][850]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Pilot_Auto214C52FDC4FF7EB3DAB5D90B9C0EA30DD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Pilot_Auto2.uasset'
+[2021.02.03-18.07.44:476][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectyle1] ([2] browsable assets)...
+[2021.02.03-18.07.44:490][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectyle1.Projectyle1]
+[2021.02.03-18.07.44:502][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectyle1.Projectyle1]
+[2021.02.03-18.07.44:502][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectyle1]
+[2021.02.03-18.07.44:502][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Projectyle1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.07.44:523][850]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle1_Auto29F5FA15A4507B628D8DC32901F8A81A0.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Projectyle1_Auto2.uasset'
+[2021.02.03-18.07.44:525][850]LogFileHelpers: Auto-saving content packages took 0.223
+[2021.02.03-18.07.57:269][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-18.09.24:438][704]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-18.09.24:784][704]LogBlueprint: Warning: [AssetLog] C:\Users\jill4\OneDrive\Документы\GitHub\LauraSpace\Content\Blueprints\Projectyle1.uasset: [Compiler] 'Pilot' does not inherit from 'Invader' ( Cast To Pilot  would always fail).
+[2021.02.03-18.09.24:834][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.02.03-18.09.25:219][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-18.09.25:243][706]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle1FA4103AA451776A258D2E6A62E16E629.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-18.09.25:258][706]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-18.09.25:259][706]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-18.09.49:139][ 69]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-18.09.49:144][ 69]LogBlueprint: Warning: [AssetLog] C:\Users\jill4\OneDrive\Документы\GitHub\LauraSpace\Content\Blueprints\Projectyle1.uasset: [Compiler] 'Pilot' does not inherit from 'Projectyle 1' ( Cast To Pilot  would always fail).
+[2021.02.03-18.09.49:198][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.02.03-18.14.17:366][330]BlueprintLog: New page: Compile Pilot
+[2021.02.03-18.14.17:435][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.02.03-18.14.18:050][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset" SILENT=true
+[2021.02.03-18.14.18:109][352]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/PilotAB07C81E497614D31C8347A69B92CF5F.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset'
+[2021.02.03-18.14.18:123][352]AssetCheck: New page: Asset Save: Pilot
+[2021.02.03-18.14.18:123][352]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.02.03-18.18.17:492][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.03-18.18.17:494][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.03-18.18.17:522][ 54]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/NewMap_Auto360EBCE0C440FDED244AAB2BB44FBD47C.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2021.02.03-18.18.17:524][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.071
+[2021.02.03-18.18.17:524][ 54]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2021.02.03-18.18.17:524][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pilot] ([1] browsable assets)...
+[2021.02.03-18.18.17:556][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pilot.Pilot]
+[2021.02.03-18.18.17:556][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pilot]
+[2021.02.03-18.18.17:556][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Pilot_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.18.17:617][ 54]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Pilot_Auto3152D270D484D743478F589BEC7196FFB.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Pilot_Auto3.uasset'
+[2021.02.03-18.18.17:618][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectyle1] ([2] browsable assets)...
+[2021.02.03-18.18.17:648][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectyle1.Projectyle1]
+[2021.02.03-18.18.17:683][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectyle1.Projectyle1]
+[2021.02.03-18.18.17:684][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectyle1]
+[2021.02.03-18.18.17:684][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Projectyle1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.18.17:705][ 54]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle1_Auto30010E46048D518A31270619591932F13.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Projectyle1_Auto3.uasset'
+[2021.02.03-18.18.17:706][ 54]LogFileHelpers: Auto-saving content packages took 0.182
+[2021.02.03-18.18.37:882][268]BlueprintLog: New page: Compile Pilot
+[2021.02.03-18.18.37:944][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.03-18.18.38:683][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pilot" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset" SILENT=true
+[2021.02.03-18.18.38:739][294]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Pilot4E1B736A41EDFE4F6D7D968657ED587D.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Pilot.uasset'
+[2021.02.03-18.18.38:751][294]AssetCheck: New page: Asset Save: Pilot
+[2021.02.03-18.18.38:751][294]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pilot.Pilot
+[2021.02.03-18.26.53:044][722]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.26.53:045][722]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.27.04:816][396]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.27.04:816][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.27.05:316][408]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-18.27.05:316][408]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.27.05:317][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.27.12:601][837]BlueprintLog: New page: Compile Projectyle1
+[2021.02.03-18.27.12:655][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.02.03-18.27.13:093][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectyle1" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset" SILENT=true
+[2021.02.03-18.27.13:118][849]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Projectyle14AFE70174402B6FC29AF98BA55E53A19.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Projectyle1.uasset'
+[2021.02.03-18.27.13:133][849]AssetCheck: New page: Asset Save: Projectyle1
+[2021.02.03-18.27.13:133][849]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectyle1.Projectyle1
+[2021.02.03-18.28.17:922][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.02.03-18.28.17:924][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.03-18.28.17:954][249]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/NewMap_Auto4EE608CDB4833AE6FADA4D3B3175B3BAE.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/NewMap_Auto4.umap'
+[2021.02.03-18.28.17:956][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.060
+[2021.02.03-18.28.17:956][249]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2021.02.03-18.36.25:932][149]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.02.03-18.36.25:950][149]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.02.03-18.36.28:113][277]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.36.28:113][277]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.36.31:116][481]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Widget
+[2021.02.03-18.36.31:280][481]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.02.03-18.36.40:358][ 69]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.03-18.36.50:351][ 69]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.03-18.36.50:360][ 69]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.02.03-18.36.50:376][ 69]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.02.03-18.36.54:099][290]LogContentBrowser: Attempting asset rename: NewBlueprint -> 3D
+[2021.02.03-18.36.54:209][290]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.02.03-18.36.55:647][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.36.58:465][501]LogSlate: Window '3D' being destroyed
+[2021.02.03-18.37.00:684][727]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.37.00:684][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.37.03:044][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.02.03-18.37.04:080][880]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.03-18.37.04:759][880]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/3D.3D
+[2021.02.03-18.37.05:256][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.02.03-18.37.13:017][478]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.03-18.37.14:645][478]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.03-18.37.14:660][478]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.02.03-18.37.14:672][478]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.02.03-18.37.16:790][699]LogContentBrowser: Attempting asset rename: NewBlueprint -> 3D
+[2021.02.03-18.37.16:796][699]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.02.03-18.37.18:358][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.37.21:059][980]LogSlate: Window '3D' being destroyed
+[2021.02.03-18.38.10:885][106]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.03-18.38.14:185][397]BlueprintLog: New page: Compile 3D
+[2021.02.03-18.38.14:243][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.02.03-18.38.14:686][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset" SILENT=true
+[2021.02.03-18.38.14:698][428]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D6ECBFC304F0DBC47956211AD435AA1FD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset'
+[2021.02.03-18.38.14:714][428]AssetCheck: New page: Asset Save: 3D
+[2021.02.03-18.38.14:714][428]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.38.20:121][822]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.38.57:925][414]LogSlate: Took 0.160731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.02.03-18.39.36:327][697]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.39.40:536][963]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.39.45:095][311]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.39.46:377][388]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.39.46:897][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.02.03-18.39.46:975][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.39.47:005][388]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetAB7EB4904F43359262AF44B79DAC11C2.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.39.47:028][388]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.39.47:028][388]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.39.47:623][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.39.47:635][437]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget17A3FDED497298EFD416ACBD79CA4419.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.39.47:650][437]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.39.47:650][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.41.14:104][532]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.41.14:105][532]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.41.27:804][804]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.41.27:894][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.02.03-18.41.28:528][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.41.28:541][869]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetE5D0E905417138297450CFA6C18CA88D.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.41.28:555][869]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.41.28:555][869]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.42.25:823][541]BlueprintLog: New page: Compile 3D
+[2021.02.03-18.42.25:904][541]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.02.03-18.42.36:636][384]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.42.36:731][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.02.03-18.42.36:924][394]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.42.36:993][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.02.03-18.42.52:747][300]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.42.52:840][300]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2021.02.03-18.42.53:285][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.42.53:304][320]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetD6A4AF54480A7F676F1FB8B7E32C60D1.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.42.53:321][320]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.42.53:321][320]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.43.26:946][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.02.03-18.43.26:948][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.052
+[2021.02.03-18.43.26:948][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/3D] ([1] browsable assets)...
+[2021.02.03-18.43.26:948][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/3D]
+[2021.02.03-18.43.26:948][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/3D_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.43.26:962][152]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D_Auto5F6C90E1F45259A9A808D5BB27C0A4FED.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/3D_Auto5.uasset'
+[2021.02.03-18.43.26:963][152]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.02.03-18.44.33:803][206]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.44.33:803][206]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.46.07:067][803]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.46.07:169][803]LogBlueprint: Error: [AssetLog] C:\Users\jill4\OneDrive\Документы\GitHub\LauraSpace\Content\Blueprints\Widget.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Pilot  to imply a specific type.
+[2021.02.03-18.46.07:169][803]LogBlueprint: Error: [AssetLog] C:\Users\jill4\OneDrive\Документы\GitHub\LauraSpace\Content\Blueprints\Widget.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.02.03-18.46.07:286][803]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2021.02.03-18.46.38:371][745]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.46.38:375][745]LogBlueprint: Warning: [AssetLog] C:\Users\jill4\OneDrive\Документы\GitHub\LauraSpace\Content\Blueprints\Widget.uasset: [Compiler] 'Pilot' does not inherit from 'Player Controller' ( Cast To Pilot  would always fail).
+[2021.02.03-18.46.38:474][745]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2021.02.03-18.46.38:923][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.46.38:946][780]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget3E051A1341033FDF7B4952B332E9C164.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.46.38:967][780]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.46.38:967][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.46.51:326][895]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.46.51:432][895]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2021.02.03-18.46.51:890][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.46.51:915][935]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetCF3D6D144D02C4CEC8220884FE42D8DD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.46.51:939][935]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.46.51:939][935]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.46.58:247][442]BlueprintLog: New page: Compile 3D
+[2021.02.03-18.46.58:350][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2021.02.03-18.46.58:838][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset" SILENT=true
+[2021.02.03-18.46.58:854][472]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D05DAAC774D0ADC26C35CDFB347896FBB.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset'
+[2021.02.03-18.46.58:873][472]AssetCheck: New page: Asset Save: 3D
+[2021.02.03-18.46.58:874][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.48.54:706][291]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.49.07:808][896]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.49.12:994][173]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.49.13:197][173]LogUObjectHash: Compacting FUObjectHashTables data took  18.14ms
+[2021.02.03-18.49.13:727][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.49.13:800][193]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetA876AEF0488CB0CF63453BAE2386C769.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.49.13:902][193]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.49.13:902][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.49.50:630][537]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.49.52:078][620]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.49.52:213][620]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2021.02.03-18.49.52:633][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.49.52:674][639]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetABF91AC84902D4F21E8D52855C254183.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.49.52:701][639]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.49.52:701][639]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.50.00:240][797]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.50.05:778][862]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.50.58:325][585]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.51.03:633][742]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.51.04:448][784]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.51.04:559][784]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2021.02.03-18.51.05:124][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.51.05:160][813]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget3C8025D9404E22BFC264748DA3F730FA.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.51.05:196][813]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.51.05:196][813]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.51.07:015][911]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.51.07:139][911]LogUObjectHash: Compacting FUObjectHashTables data took  13.47ms
+[2021.02.03-18.51.07:492][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.51.07:560][925]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetE20843C64D564F281711A1B5D7E546CD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.51.07:635][925]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.51.07:635][925]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.51.43:358][467]LogSlate: Window 'Color Picker' being destroyed
+[2021.02.03-18.53.27:539][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.02.03-18.53.27:540][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.047
+[2021.02.03-18.53.27:541][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Widget] ([1] browsable assets)...
+[2021.02.03-18.53.27:541][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widget]
+[2021.02.03-18.53.27:541][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Widget_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.53.27:569][859]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget_Auto68DCA350C43BD1046A27F5EA894E94157.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/Widget_Auto6.uasset'
+[2021.02.03-18.53.27:570][859]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/3D] ([1] browsable assets)...
+[2021.02.03-18.53.27:570][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/3D]
+[2021.02.03-18.53.27:570][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/3D_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.02.03-18.53.27:582][859]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D_Auto61A9455D44EB97E27DFBAAF84CF2AC9BA.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Autosaves/Game/Blueprints/3D_Auto6.uasset'
+[2021.02.03-18.53.27:583][859]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.02.03-18.54.58:320][130]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.54.58:320][130]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.55.28:098][461]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.55.28:164][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.02.03-18.55.28:537][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.55.28:566][478]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget8944775A41A23622109D91919C1C0ACD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.55.28:582][478]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.55.28:583][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.55.31:886][661]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.55.31:887][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.55.31:903][661]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.55.31:903][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.55.32:811][709]BlueprintLog: New page: Compile 3D
+[2021.02.03-18.55.32:871][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.02.03-18.55.33:336][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset" SILENT=true
+[2021.02.03-18.55.33:348][726]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D9F6332B947BCAB3F140BC69CE9C6DA62.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset'
+[2021.02.03-18.55.33:365][726]AssetCheck: New page: Asset Save: 3D
+[2021.02.03-18.55.33:365][726]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.55.38:251][ 11]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.55.38:251][ 11]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.56.04:945][248]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.56.04:945][248]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-18.56.07:257][379]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.03-18.56.13:491][749]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.03-18.56.34:561][987]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.57.00:634][515]BlueprintLog: New page: Compile 3D
+[2021.02.03-18.57.00:703][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.02.03-18.57.01:173][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset" SILENT=true
+[2021.02.03-18.57.01:189][535]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3DF5D0A2F24944C6CC67E79696C50DF0BD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset'
+[2021.02.03-18.57.01:207][535]AssetCheck: New page: Asset Save: 3D
+[2021.02.03-18.57.01:207][535]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-18.57.38:746][747]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.57.38:830][747]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.02.03-18.57.39:119][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.57.39:148][761]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget5B03ED8C4D6535FB64BB039C437DA88F.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.57.39:161][761]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.57.39:161][761]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.57.57:913][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.57.57:935][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-18.57.57:935][773]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:57:57)
+[2021.02.03-18.57.57:935][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.57.57:943][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008008s)
+[2021.02.03-18.57.57:945][773]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.57.57:946][773]LogPlayLevel: PIE: World Init took: (0.002571s)
+[2021.02.03-18.57.57:946][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010821s)
+[2021.02.03-18.57.58:022][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.02.03-18.57.58:025][773]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.57.58:025][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.57.58:025][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.57.58:025][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.57.58:028][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.57.58:028][773]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.57.58:048][773]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.57.58:048][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.57.58:048][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.57.58:049][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.57.58:049][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.57.58:049][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.57.58:049][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.57.58:069][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.57.58:070][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.57.58:070][773]LogInit: FAudioDevice initialized.
+[2021.02.03-18.57.58:070][773]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2021.02.03-18.57.58:094][773]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.57.58:455][773]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-21.57.58
+[2021.02.03-18.57.58:455][773]LogWorld: Bringing up level for play took: 0.360005
+[2021.02.03-18.57.58:456][773]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.02.03-18.57.58:463][773]LogScript: Warning: Script Msg: Invader_C_11 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.57.58:464][773]LogScript: Warning: Script Msg: Invader_C_15 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.57.58:466][773]LogScript: Warning: Script Msg: Invader_C_20 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.57.58:467][773]LogScript: Warning: Script Msg: Invader_C_22 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.57.58:467][773]PIE: Server logged in
+[2021.02.03-18.57.58:468][773]PIE: Play in editor total start time 0,536 seconds.
+[2021.02.03-18.58.00:447][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.00:447][878]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.58.00:448][878]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.58.00:448][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.00:460][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.58.00:471][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.00:505][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-18.58.00:505][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.00:506][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.00:527][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.00:533][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.02.03-18.58.00:572][879]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.02.03-18.58.07:862][276]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.58.07:877][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-18.58.07:877][276]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:58:07)
+[2021.02.03-18.58.07:878][276]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.58.07:883][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005662s)
+[2021.02.03-18.58.07:885][276]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.58.07:885][276]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2021.02.03-18.58.07:885][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007346s)
+[2021.02.03-18.58.07:933][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.02.03-18.58.07:934][276]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.02.03-18.58.07:934][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.58.07:935][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.58.07:935][276]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.58.07:935][276]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.58.07:937][276]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.58.07:937][276]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.58.07:958][276]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.58.07:959][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.58.07:959][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.58.07:959][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.58.07:959][276]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.58.07:959][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.58.07:959][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.58.07:981][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.58.07:981][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.58.07:981][276]LogInit: FAudioDevice initialized.
+[2021.02.03-18.58.07:981][276]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2021.02.03-18.58.07:991][276]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.58.07:994][276]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-21.58.07
+[2021.02.03-18.58.07:994][276]LogWorld: Bringing up level for play took: 0.002104
+[2021.02.03-18.58.07:995][276]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.02.03-18.58.08:001][276]LogScript: Warning: Script Msg: Invader_C_8 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.08:003][276]LogScript: Warning: Script Msg: Invader_C_15 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.08:005][276]LogScript: Warning: Script Msg: Invader_C_19 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.08:006][276]PIE: Server logged in
+[2021.02.03-18.58.08:007][276]PIE: Play in editor total start time 0,131 seconds.
+[2021.02.03-18.58.09:047][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.09:048][333]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.58.09:048][333]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.58.09:048][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.09:057][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.58.09:069][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.09:102][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-18.58.09:103][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.09:104][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.09:125][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.09:130][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.02.03-18.58.09:178][334]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.02.03-18.58.20:742][939]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.58.20:778][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-18.58.20:778][939]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:58:20)
+[2021.02.03-18.58.20:778][939]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.58.20:791][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013001s)
+[2021.02.03-18.58.20:793][939]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.58.20:793][939]LogPlayLevel: PIE: World Init took: (0.002512s)
+[2021.02.03-18.58.20:793][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.015782s)
+[2021.02.03-18.58.20:873][939]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.02.03-18.58.20:874][939]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.02.03-18.58.20:874][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.58.20:874][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.58.20:874][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.58.20:874][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.58.20:874][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.58.20:875][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.58.20:875][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.58.20:875][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.58.20:875][939]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.58.20:875][939]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.58.20:877][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.58.20:877][939]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.58.20:907][939]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.58.20:908][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.58.20:908][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.58.20:908][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.58.20:908][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.58.20:909][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.58.20:909][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.58.20:938][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.58.20:938][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.58.20:938][939]LogInit: FAudioDevice initialized.
+[2021.02.03-18.58.20:938][939]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewMap'.
+[2021.02.03-18.58.20:948][939]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.58.20:950][939]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-21.58.20
+[2021.02.03-18.58.20:951][939]LogWorld: Bringing up level for play took: 0.002531
+[2021.02.03-18.58.20:951][939]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.02.03-18.58.20:958][939]LogScript: Warning: Script Msg: Invader_C_6 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.20:960][939]LogScript: Warning: Script Msg: Invader_C_11 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.20:962][939]LogScript: Warning: Script Msg: Invader_C_14 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.20:963][939]LogScript: Warning: Script Msg: Invader_C_16 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.58.20:966][939]PIE: Server logged in
+[2021.02.03-18.58.20:967][939]PIE: Play in editor total start time 0,192 seconds.
+[2021.02.03-18.58.24:277][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.24:277][117]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.58.24:278][117]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.58.24:278][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.24:287][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.58.24:298][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.58.24:334][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-18.58.24:335][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.24:337][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.58.24:384][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.58.24:394][117]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2021.02.03-18.58.24:479][118]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.02.03-18.59.14:020][740]BlueprintLog: New page: Compile Widget
+[2021.02.03-18.59.14:121][740]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.02.03-18.59.14:591][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-18.59.14:622][761]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget1CB7397B4F968BBB7D38FBBB4A80F161.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-18.59.14:639][761]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-18.59.14:639][761]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-18.59.16:517][860]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-18.59.16:539][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-18.59.16:539][860]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 00:59:16)
+[2021.02.03-18.59.16:539][860]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-18.59.16:545][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006871s)
+[2021.02.03-18.59.16:547][860]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-18.59.16:549][860]LogPlayLevel: PIE: World Init took: (0.003229s)
+[2021.02.03-18.59.16:549][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010349s)
+[2021.02.03-18.59.16:601][860]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2021.02.03-18.59.16:603][860]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-18.59.16:604][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-18.59.16:604][860]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-18.59.16:604][860]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-18.59.16:607][860]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-18.59.16:607][860]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-18.59.16:632][860]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-18.59.16:632][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-18.59.16:633][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-18.59.16:633][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-18.59.16:635][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-18.59.16:635][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-18.59.16:635][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-18.59.16:655][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-18.59.16:655][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-18.59.16:656][860]LogInit: FAudioDevice initialized.
+[2021.02.03-18.59.16:656][860]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewMap'.
+[2021.02.03-18.59.16:669][860]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-18.59.16:672][860]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-21.59.16
+[2021.02.03-18.59.16:672][860]LogWorld: Bringing up level for play took: 0.001777
+[2021.02.03-18.59.16:672][860]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.02.03-18.59.16:679][860]LogScript: Warning: Script Msg: Invader_C_12 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.59.16:681][860]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.59.16:682][860]LogScript: Warning: Script Msg: Invader_C_21 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-18.59.16:683][860]PIE: Server logged in
+[2021.02.03-18.59.16:684][860]PIE: Play in editor total start time 0,147 seconds.
+[2021.02.03-18.59.17:908][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.59.17:908][915]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-18.59.17:908][915]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-18.59.17:909][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.59.17:921][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-18.59.17:932][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-18.59.17:970][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-18.59.17:970][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.59.17:971][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-18.59.17:994][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-18.59.17:999][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.02.03-18.59.18:046][916]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.02.03-18.59.19:796][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.03-18.59.20:219][  5]LogEditorViewport: Clicking on Actor (LMB): 3D_C (3D)
+[2021.02.03-18.59.20:975][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.03-18.59.22:135][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.03-18.59.22:568][105]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.03-18.59.23:259][137]LogEditorViewport: Clicking on Actor (LMB): 3D_C (3D)
+[2021.02.03-18.59.46:508][405]LogEditorViewport: Clicking on Actor (LMB): 3D_C (3D)
+[2021.02.03-19.00.03:412][360]BlueprintLog: New page: Compile 3D
+[2021.02.03-19.00.03:528][360]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.02.03-19.00.03:868][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/3D" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset" SILENT=true
+[2021.02.03-19.00.03:881][370]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/3D9F31EFA445512887483B0DA1E90C5335.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/3D.uasset'
+[2021.02.03-19.00.03:896][370]AssetCheck: New page: Asset Save: 3D
+[2021.02.03-19.00.03:896][370]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/3D.3D
+[2021.02.03-19.00.06:369][513]LogEditorTransaction: Undo Modify Component(s)
+[2021.02.03-19.00.07:980][585]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.00.07:997][585]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.02.03-19.00.07:998][585]LogPlayLevel: [PlayLevel] Compiling 3D before play...
+[2021.02.03-19.00.08:113][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2021.02.03-19.00.08:115][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (1 blueprints)
+[2021.02.03-19.00.08:115][585]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:00:08)
+[2021.02.03-19.00.08:116][585]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.08:123][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007875s)
+[2021.02.03-19.00.08:125][585]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.00.08:125][585]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2021.02.03-19.00.08:127][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010263s)
+[2021.02.03-19.00.08:173][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.02.03-19.00.08:174][585]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.00.08:174][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.00.08:174][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.00.08:175][585]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.00.08:175][585]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.00.08:177][585]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.00.08:177][585]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.00.08:199][585]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.00.08:200][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.00.08:200][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.00.08:200][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.00.08:200][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.00.08:200][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.00.08:200][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.00.08:221][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.00.08:221][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.00.08:221][585]LogInit: FAudioDevice initialized.
+[2021.02.03-19.00.08:221][585]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2021.02.03-19.00.08:230][585]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.00.08:233][585]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.00.08
+[2021.02.03-19.00.08:233][585]LogWorld: Bringing up level for play took: 0.001824
+[2021.02.03-19.00.08:233][585]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.02.03-19.00.08:238][585]LogScript: Warning: Script Msg: Invader_C_5 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.08:239][585]LogScript: Warning: Script Msg: Invader_C_8 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.08:241][585]LogScript: Warning: Script Msg: Invader_C_13 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.08:243][585]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.08:245][585]PIE: Server logged in
+[2021.02.03-19.00.08:246][585]PIE: Play in editor total start time 0,25 seconds.
+[2021.02.03-19.00.09:707][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.09:707][652]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.09:707][652]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.00.09:708][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.09:719][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.00.09:731][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.09:768][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.09:769][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.09:770][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.09:800][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.02.03-19.00.09:844][653]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.02.03-19.00.17:261][ 43]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.00.17:371][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.02.03-19.00.17:751][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.00.17:795][ 56]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget08CD77BD4FA4FD704689FA99A20AE807.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.00.17:820][ 56]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.00.17:821][ 56]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.00.18:770][104]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.00.18:794][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.00.18:794][104]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:00:18)
+[2021.02.03-19.00.18:795][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.18:803][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008536s)
+[2021.02.03-19.00.18:805][104]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.00.18:805][104]LogPlayLevel: PIE: World Init took: (0.002002s)
+[2021.02.03-19.00.18:805][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010806s)
+[2021.02.03-19.00.18:861][104]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.02.03-19.00.18:862][104]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.00.18:862][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.00.18:862][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.00.18:863][104]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.00.18:863][104]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.00.18:865][104]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.00.18:865][104]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.00.18:895][104]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.00.18:895][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.00.18:895][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.00.18:895][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.00.18:896][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.00.18:896][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.00.18:896][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.00.18:923][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.00.18:923][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.00.18:923][104]LogInit: FAudioDevice initialized.
+[2021.02.03-19.00.18:923][104]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewMap'.
+[2021.02.03-19.00.18:934][104]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.00.18:938][104]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.00.18
+[2021.02.03-19.00.18:939][104]LogWorld: Bringing up level for play took: 0.003206
+[2021.02.03-19.00.18:939][104]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.02.03-19.00.18:947][104]LogScript: Warning: Script Msg: Invader_C_7 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.18:955][104]PIE: Server logged in
+[2021.02.03-19.00.18:957][104]PIE: Play in editor total start time 0,165 seconds.
+[2021.02.03-19.00.20:438][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.20:438][174]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.20:439][174]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.00.20:440][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.20:450][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.00.20:467][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.20:514][174]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.00.20:515][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.20:517][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.20:565][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.20:572][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.02.03-19.00.20:637][175]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.02.03-19.00.53:023][664]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.00.53:141][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.02.03-19.00.53:661][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.00.53:692][687]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget621E99AF4CC4856C1CF9FEB1488A24D6.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.00.53:708][687]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.00.53:708][687]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.00.57:380][898]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.00.57:396][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.00.57:396][898]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:00:57)
+[2021.02.03-19.00.57:396][898]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.57:402][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005669s)
+[2021.02.03-19.00.57:403][898]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.00.57:403][898]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2021.02.03-19.00.57:403][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.007201s)
+[2021.02.03-19.00.57:447][898]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.02.03-19.00.57:449][898]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.00.57:449][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.00.57:449][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.00.57:449][898]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.00.57:450][898]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.00.57:451][898]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.00.57:451][898]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.00.57:473][898]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.00.57:473][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.00.57:473][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.00.57:473][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.00.57:474][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.00.57:474][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.00.57:474][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.00.57:496][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.00.57:496][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.00.57:496][898]LogInit: FAudioDevice initialized.
+[2021.02.03-19.00.57:496][898]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2021.02.03-19.00.57:507][898]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.00.57:510][898]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.00.57
+[2021.02.03-19.00.57:510][898]LogWorld: Bringing up level for play took: 0.001974
+[2021.02.03-19.00.57:510][898]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.02.03-19.00.57:515][898]LogScript: Warning: Script Msg: Invader_C_6 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.57:517][898]LogScript: Warning: Script Msg: Invader_C_11 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.57:520][898]LogScript: Warning: Script Msg: Invader_C_19 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.00.57:521][898]PIE: Server logged in
+[2021.02.03-19.00.57:522][898]PIE: Play in editor total start time 0,128 seconds.
+[2021.02.03-19.00.59:107][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.59:107][982]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.00.59:108][982]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.00.59:108][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.59:123][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.00.59:137][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.00.59:178][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.00.59:179][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.59:180][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.00.59:211][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.00.59:217][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.02.03-19.00.59:271][983]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.02.03-19.01.00:271][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.01.00:290][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.01.00:290][ 32]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:01:00)
+[2021.02.03-19.01.00:291][ 32]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.00:297][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006564s)
+[2021.02.03-19.01.00:299][ 32]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.01.00:299][ 32]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2021.02.03-19.01.00:299][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008227s)
+[2021.02.03-19.01.00:343][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.02.03-19.01.00:344][ 32]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.02.03-19.01.00:344][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.01.00:344][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.01.00:345][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.01.00:345][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.01.00:345][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.01.00:347][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.01.00:347][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.01.00:369][ 32]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.01.00:370][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.01.00:392][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.01.00:392][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.01.00:392][ 32]LogInit: FAudioDevice initialized.
+[2021.02.03-19.01.00:392][ 32]LogAudio: Display: Audio Device (ID: 27) registered with world 'NewMap'.
+[2021.02.03-19.01.00:402][ 32]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.01.00:405][ 32]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.01.00
+[2021.02.03-19.01.00:405][ 32]LogWorld: Bringing up level for play took: 0.001988
+[2021.02.03-19.01.00:405][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.02.03-19.01.00:409][ 32]LogScript: Warning: Script Msg: Invader_C_1 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.00:413][ 32]LogScript: Warning: Script Msg: Invader_C_12 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.00:414][ 32]LogScript: Warning: Script Msg: Invader_C_16 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.00:414][ 32]LogScript: Warning: Script Msg: Invader_C_17 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.00:415][ 32]LogScript: Warning: Script Msg: Invader_C_20 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.00:417][ 32]PIE: Server logged in
+[2021.02.03-19.01.00:418][ 32]PIE: Play in editor total start time 0,128 seconds.
+[2021.02.03-19.01.02:977][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.02:977][163]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.02:978][163]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.01.02:978][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.02:989][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.01.03:001][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.03:041][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.03:041][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.03:043][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.03:077][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.02.03-19.01.03:143][164]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.02.03-19.01.12:739][652]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.01.12:835][652]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.02.03-19.01.13:280][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.01.13:319][668]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget8104E46343B6E594BB6A44BED3ECFA51.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.01.13:339][668]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.01.13:339][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.01.14:287][720]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.01.14:310][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.01.14:310][720]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:01:14)
+[2021.02.03-19.01.14:346][720]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.14:353][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006301s)
+[2021.02.03-19.01.14:354][720]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.01.14:354][720]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2021.02.03-19.01.14:354][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008176s)
+[2021.02.03-19.01.14:400][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.02.03-19.01.14:400][720]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.01.14:401][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.01.14:401][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.01.14:401][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.01.14:403][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.01.14:403][720]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.01.14:425][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.01.14:425][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.01.14:450][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.01.14:450][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.01.14:450][720]LogInit: FAudioDevice initialized.
+[2021.02.03-19.01.14:450][720]LogAudio: Display: Audio Device (ID: 28) registered with world 'NewMap'.
+[2021.02.03-19.01.14:463][720]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.01.14:466][720]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.01.14
+[2021.02.03-19.01.14:466][720]LogWorld: Bringing up level for play took: 0.002100
+[2021.02.03-19.01.14:466][720]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.02.03-19.01.14:470][720]LogScript: Warning: Script Msg: Invader_C_1 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.14:474][720]LogScript: Warning: Script Msg: Invader_C_10 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.14:475][720]LogScript: Warning: Script Msg: Invader_C_14 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.14:476][720]LogScript: Warning: Script Msg: Invader_C_16 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.14:477][720]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.14:479][720]PIE: Server logged in
+[2021.02.03-19.01.14:480][720]PIE: Play in editor total start time 0,172 seconds.
+[2021.02.03-19.01.20:228][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.20:228][ 40]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.20:229][ 40]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.01.20:230][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.20:246][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.01.20:263][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.20:311][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.01.20:311][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.20:313][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.20:340][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.20:346][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.02.03-19.01.20:398][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.02.03-19.01.27:170][423]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.01.27:307][423]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.02.03-19.01.28:092][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.01.28:124][461]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetBF5767AE48377F58B5E4A69301E74F0C.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.01.28:147][461]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.01.28:147][461]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.01.29:086][511]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.01.29:108][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.01.29:108][511]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:01:29)
+[2021.02.03-19.01.29:108][511]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.29:117][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008814s)
+[2021.02.03-19.01.29:120][511]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.01.29:121][511]LogPlayLevel: PIE: World Init took: (0.003176s)
+[2021.02.03-19.01.29:121][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012260s)
+[2021.02.03-19.01.29:192][511]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2021.02.03-19.01.29:193][511]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.01.29:194][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.01.29:194][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.01.29:195][511]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.01.29:195][511]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.01.29:197][511]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.01.29:197][511]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.01.29:232][511]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.01.29:233][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.01.29:233][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.01.29:233][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.01.29:234][511]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.01.29:234][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.01.29:234][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.01.29:264][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.01.29:264][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.01.29:264][511]LogInit: FAudioDevice initialized.
+[2021.02.03-19.01.29:264][511]LogAudio: Display: Audio Device (ID: 29) registered with world 'NewMap'.
+[2021.02.03-19.01.29:277][511]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.01.29:281][511]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.01.29
+[2021.02.03-19.01.29:282][511]LogWorld: Bringing up level for play took: 0.003169
+[2021.02.03-19.01.29:282][511]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.02.03-19.01.29:289][511]LogScript: Warning: Script Msg: Invader_C_7 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.29:289][511]LogScript: Warning: Script Msg: Invader_C_8 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.29:290][511]LogScript: Warning: Script Msg: Invader_C_9 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.29:292][511]LogScript: Warning: Script Msg: Invader_C_15 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.29:294][511]LogScript: Warning: Script Msg: Invader_C_19 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.29:295][511]PIE: Server logged in
+[2021.02.03-19.01.29:296][511]PIE: Play in editor total start time 0,19 seconds.
+[2021.02.03-19.01.31:588][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.31:588][625]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.31:588][625]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.01.31:589][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.31:600][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.01.31:612][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.01.31:652][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.01.31:652][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.31:653][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.01.31:681][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.01.31:688][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.02.03-19.01.31:735][626]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.02.03-19.01.43:517][220]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.01.43:607][220]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.02.03-19.01.44:007][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.01.44:040][235]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetEE79B9A2492DC817CA8C158836918F1F.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.01.44:061][235]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.01.44:061][235]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.01.45:110][292]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.03-19.01.45:131][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.03-19.01.45:131][292]PIE: New page: PIE session: NewMap (4 февр. 2021 г., 01:01:45)
+[2021.02.03-19.01.45:132][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.01.45:141][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009519s)
+[2021.02.03-19.01.45:144][292]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.01.45:144][292]LogPlayLevel: PIE: World Init took: (0.002864s)
+[2021.02.03-19.01.45:144][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012628s)
+[2021.02.03-19.01.45:208][292]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2021.02.03-19.01.45:209][292]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.03-19.01.45:209][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.03-19.01.45:209][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.03-19.01.45:210][292]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.03-19.01.45:210][292]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.03-19.01.45:212][292]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.03-19.01.45:212][292]LogAudioMixer: Display: 1: FrontRight
+[2021.02.03-19.01.45:242][292]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio(SST))
+[2021.02.03-19.01.45:243][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.03-19.01.45:243][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.03-19.01.45:243][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.03-19.01.45:243][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.03-19.01.45:243][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.03-19.01.45:243][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.03-19.01.45:272][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.03-19.01.45:272][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.03-19.01.45:272][292]LogInit: FAudioDevice initialized.
+[2021.02.03-19.01.45:272][292]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2021.02.03-19.01.45:282][292]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.01.45:286][292]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.01.45
+[2021.02.03-19.01.45:286][292]LogWorld: Bringing up level for play took: 0.002871
+[2021.02.03-19.01.45:287][292]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.02.03-19.01.45:292][292]LogScript: Warning: Script Msg: Invader_C_2 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:295][292]LogScript: Warning: Script Msg: Invader_C_8 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:296][292]LogScript: Warning: Script Msg: Invader_C_10 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:300][292]LogScript: Warning: Script Msg: Invader_C_17 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:300][292]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:301][292]LogScript: Warning: Script Msg: Invader_C_20 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:302][292]LogScript: Warning: Script Msg: Invader_C_21 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.01.45:303][292]PIE: Server logged in
+[2021.02.03-19.01.45:304][292]PIE: Play in editor total start time 0,174 seconds.
+[2021.02.03-19.02.10:472][731]LogNet: Browse: /Game/NewMap
+[2021.02.03-19.02.10:472][731]LogLoad: LoadMap: /Game/NewMap
+[2021.02.03-19.02.10:472][731]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.02.10:476][731]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.02.10:478][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.02.10:554][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.02.10:563][731]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.02.03-19.02.10:565][731]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2021.02.03-19.02.10:574][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008786s)
+[2021.02.03-19.02.10:576][731]LogAIModule: Creating AISystem for world NewMap
+[2021.02.03-19.02.10:576][731]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2021.02.03-19.02.10:576][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.011143s)
+[2021.02.03-19.02.10:576][731]LogAudio: Display: Audio Device (ID: 30) registered with world 'NewMap'.
+[2021.02.03-19.02.10:576][731]LogLoad: Game class is 'GameModeBase'
+[2021.02.03-19.02.10:580][731]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2021.02.03-22.02.10
+[2021.02.03-19.02.10:580][731]LogWorld: Bringing up level for play took: 0.002078
+[2021.02.03-19.02.10:581][731]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.02.03-19.02.10:585][731]LogScript: Warning: Script Msg: Invader_C_3 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:586][731]LogScript: Warning: Script Msg: Invader_C_4 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:587][731]LogScript: Warning: Script Msg: Invader_C_6 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:590][731]LogScript: Warning: Script Msg: Invader_C_12 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:592][731]LogScript: Warning: Script Msg: Invader_C_15 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:593][731]LogScript: Warning: Script Msg: Invader_C_17 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:594][731]LogScript: Warning: Script Msg: Invader_C_18 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:595][731]LogScript: Warning: Script Msg: Invader_C_20 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:597][731]LogScript: Warning: Script Msg: Invader_C_22 Try SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2021.02.03-19.02.10:598][731]LogLoad: Took 0.125244 seconds to LoadMap(/Game/UEDPIE_0_NewMap)
+[2021.02.03-19.02.14:188][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.02.14:188][924]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2021.02.03-19.02.14:189][924]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.02.14:190][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.02.14:201][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.03-19.02.14:214][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.02.14:254][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.03-19.02.14:255][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.02.14:256][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.03-19.02.14:284][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.03-19.02.14:290][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.02.03-19.02.14:350][925]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.02.03-19.03.01:744][523]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-19.03.01:744][523]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-19.03.14:283][200]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.03.14:528][200]LogUObjectHash: Compacting FUObjectHashTables data took  12.06ms
+[2021.02.03-19.03.14:805][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.03.14:908][204]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget85E4D05744E3B427EDB52CA68D449EAD.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.03.14:966][204]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.03.14:966][204]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.03.24:205][593]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.03.24:453][593]LogUObjectHash: Compacting FUObjectHashTables data took  17.73ms
+[2021.02.03-19.03.24:846][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.03.24:950][604]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetAAD9983C47EF5A9A100941AEA7C7B14F.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.03.24:998][604]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.03.24:998][604]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.03.51:719][708]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-19.03.51:719][708]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.03-19.03.54:182][839]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.03.54:280][839]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.02.03-19.03.54:639][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.03.54:669][857]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Widget5A3FBE114F8EFF311D3DAC9E26CECC01.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.03.54:687][857]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.03.54:688][857]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.04.04:432][425]BlueprintLog: New page: Compile Widget
+[2021.02.03-19.04.04:531][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.02.03-19.04.05:086][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widget" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset" SILENT=true
+[2021.02.03-19.04.05:114][454]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/WidgetA51F2AE8416E54C73E7ACB83B4E8EC97.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Widget.uasset'
+[2021.02.03-19.04.05:132][454]AssetCheck: New page: Asset Save: Widget
+[2021.02.03-19.04.05:132][454]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widget.Widget
+[2021.02.03-19.04.08:770][658]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.04.08:771][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.04.09:337][673]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.04.09:337][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.04.09:356][673]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.04.09:356][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.04.09:982][702]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.03-19.04.09:982][702]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.02.03-19.04.09:982][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.03-19.04.11:059][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.03-19.04.11:173][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.02.03-19.04.11:222][750]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/NewMapB05A197A4249D941A2A461BFA3F354ED.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/NewMap.umap'
+[2021.02.03-19.04.11:300][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/NewMap_BuiltData.uasset" SILENT=true
+[2021.02.03-19.04.11:336][750]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/NewMap_BuiltData37D8F9204553CE1FB081858D144ACBD1.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/NewMap_BuiltData.uasset'
+[2021.02.03-19.04.11:354][750]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-19.04.11:354][750]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2021.02.03-19.04.11:354][750]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2021.02.03-19.04.13:171][799]LogUObjectHash: Compacting FUObjectHashTables data took  16.41ms
+[2021.02.03-19.04.13:279][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Invader" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Invader.uasset" SILENT=true
+[2021.02.03-19.04.13:419][799]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/Invader80E48FC5482953FA6C00A988CFB3472D.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/Invader.uasset'
+[2021.02.03-19.04.13:423][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ProjectyleEnemy" FILE="C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset" SILENT=true
+[2021.02.03-19.04.13:486][799]LogSavePackage: Moving 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Saved/ProjectyleEnemyDF59418B4E66A3F2AD633CBA72922B85.tmp' to 'C:/Users/jill4/OneDrive/Документы/GitHub/LauraSpace/Content/Blueprints/ProjectyleEnemy.uasset'
+[2021.02.03-19.04.13:525][799]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-19.04.13:525][799]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ProjectyleEnemy.ProjectyleEnemy
+[2021.02.03-19.04.13:525][799]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Invader.Invader
